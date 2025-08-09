@@ -62,6 +62,9 @@ To test the model’s predictive capabilities, I created a hypothetical scenario
 
 The model predicted a **GDP of \$4.37 trillion**, a significant jump from the actual 2024 value. This scenario illustrates how strategic improvements in health, sustainability, and demographics can drive economic growth.
 
+<img width="784" height="484" alt="image" src="https://github.com/user-attachments/assets/f01766bd-8ffb-43f2-8c29-f84f7e5e2fd5" />
+
+
 ---
 
 ## 🧠 Final thoughts
