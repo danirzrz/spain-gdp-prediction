@@ -14,7 +14,7 @@ Github blog post of the findings: https://danirzrz.github.io/spain-gdp-predictio
 | File | Description |
 |------|-------------|
 | `cleaned_spain_data.csv` | Cleaned dataset filtered for Spain with missing values handled |
-| `spain_gdp_analysis.ipynb` | Jupyter Notebook with full analysis, visualizations, and modeling |
+| `Project Spain Development Indicators.ipynb` | Jupyter Notebook with full analysis, visualizations, and modeling |
 | `README.md` | Project overview and documentation |
 | `index.md` | Github blog post of the findings |
 
