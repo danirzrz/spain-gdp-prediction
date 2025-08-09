@@ -5,8 +5,7 @@ This project explores how key economic and demographic indicators influence Spai
 
 The project follows the **CRISP-DM** methodology and is part of a data science blog post assignment.
 
-https://danirzrz.github.io/spain-gdp-prediction/
-
+Github blog post of the findings: https://danirzrz.github.io/spain-gdp-prediction/ 
 📊 Predicting Spain’s Economic Future with Data Science | spain-gdp-prediction
 
 ---
