@@ -70,3 +70,9 @@ The model predicted a **GDP of \$4.37 trillion**, a significant jump from the ac
 ## 🧠 Final thoughts
 
 This project shows how data science can uncover meaningful insights and simulate future outcomes. While models aren’t perfect, they offer a powerful lens for understanding complex systems like national economies.
+
+•	
+## 🔍 Github repository for the code:
+
+https://github.com/danirzrz/spain-gdp-prediction
+
