@@ -12,6 +12,22 @@ After cleaning and analyzing the dataset, I identified several indicators that s
 
 Interestingly, some indicators like **energy use per capita** and **population density** were highly correlated with GDP but had to be removed to avoid redundancy in the model. This highlights the complexity of economic modeling: not all strong correlations are useful predictors.
 
+<img width="1183" height="784" alt="image" src="https://github.com/user-attachments/assets/05a68389-9899-47cf-b806-a995c99ca849" />
+
+<img width="784" height="384" alt="image" src="https://github.com/user-attachments/assets/f2885cae-453d-434a-aa70-5617a17ee6a0" />
+
+<img width="784" height="384" alt="image" src="https://github.com/user-attachments/assets/c3120639-edec-40f4-b8df-2def1107eb48" />
+
+<img width="784" height="384" alt="image" src="https://github.com/user-attachments/assets/a3c45352-625a-4c0a-9f47-02724196c751" />
+
+<img width="782" height="384" alt="image" src="https://github.com/user-attachments/assets/728b6800-a494-4400-8670-0fb0e5fdb0ca" />
+
+<img width="784" height="384" alt="image" src="https://github.com/user-attachments/assets/079b1784-ed0d-41ae-bd47-735f49236d9b" />
+
+<img width="784" height="384" alt="image" src="https://github.com/user-attachments/assets/9024d85e-c250-4f98-89b0-4a528945e6de" />
+
+<img width="953" height="584" alt="image" src="https://github.com/user-attachments/assets/680cd4a6-8ed0-422d-a00d-641ded282540" />
+
 ---
 
 ## 💡 Creative insights from the data
